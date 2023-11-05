@@ -1,3 +1,6 @@
+<h1>HW1</h1>
+    
+```swift
 import SwiftUI
 
 struct ContentView: View {
@@ -54,3 +57,5 @@ struct ContentView: View {
         }
     }
 }
+```
+<img width="40%"  src="https://github.com/LAD0626/yzu-swiftui-1091416/blob/main/hw1-1091416.png">
